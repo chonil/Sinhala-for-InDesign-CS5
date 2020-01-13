@@ -1,4 +1,4 @@
-SinhalaXtScript.jsx
+Sinhala Unicode for Adobe InDesign - SinhalaXtScript.jsx
 
 An InDesign CS5 JavaScript
 
